@@ -1,9 +1,11 @@
-body
-{
+body {
 	font-family: sans-serif;
 }
 
-a
-{
+a {
 	color: white;
+}
+
+a:hover {
+  color: hotpink;
 }
