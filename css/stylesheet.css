@@ -20,6 +20,10 @@ nav ul {
 
 nav ul p {
 	display: inline;
+	border-right: 2px solid rgb(255,255,255)
+}
+nav ul p:last-child {
+	border-right: none;
 }
 
 nav ul p a {
