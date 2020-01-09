@@ -18,6 +18,10 @@ nav ul {
 
 }
 
-nav ul p{
+nav ul p {
 	display: inline;
+}
+
+nav ul p a {
+	text-decoration: none;
 }
